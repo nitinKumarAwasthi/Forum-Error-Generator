@@ -1,0 +1,16 @@
+
+
+#container{
+    text-align: center;
+    font-size: 30px;
+    border-style: solid;
+}
+
+label{
+    color: blue;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
